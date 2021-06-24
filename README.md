@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/daniel-oliveira-00689b9b/" title="LinkedIn Profile"><img width="22" src="./img/linkedin.svg">LinkedIn</a></code>  
-  <code><a href="https://stackexchange.com/users/5862653/user6774029" title="Stack Overflow Profile"><img width="22" src="./img/stackoverflow.svg">Stack Overflow</a></code>
+  <code><a href="https://www.linkedin.com/in/daniel-oliveira-00689b9b/" title="LinkedIn Profile"><img width="22" src="./img/linkedin.svg"> LinkedIn</a></code>  
+  <code><a href="https://stackexchange.com/users/5862653/user6774029" title="Stack Overflow Profile"><img width="22" src="./img/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/danielstrosa/" title="Instagram Profile"><img width="22" src="./img/instagram.svg"> Instagram</a></code>
 </h5>
 
@@ -95,9 +95,7 @@ Here are some ideas to get you started:
   <a href = "mailto:iel_182@hotmail.com">
     <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/daniel-oliveira-00689b9b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+
   <a href="https://github.com/Daniel-iel">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Daniel-iel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </div>

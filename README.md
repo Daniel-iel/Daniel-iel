@@ -79,8 +79,18 @@ Here are some ideas to get you started:
       </a>
       <br>React
     </td>    
-    <td align="center" width="96"> </td>
-    <td align="center" width="96"> </td>    
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/android-original.svg" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/xamarin-original.svg" width="48" height="48" alt="Xamarin" />
+      </a>
+      <br>Xamarin
+    </td>    
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -95,8 +105,18 @@ Here are some ideas to get you started:
       </a>
       <br>Kubernetes
     </td>    
-    <td align="center" width="96"> </td>
-    <td align="center" width="96"> </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/visualstudio-original.svg" width="48" height="48" alt="Visual Studio" />
+      </a>
+      <br>Visual studio
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>Mongodb
+    </td>
     <td align="center" width="96"> </td>
     <td align="center" width="96"> </td>
     <td align="center" width="96"> </td>

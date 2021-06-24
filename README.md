@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 # About me
 
 # Contact
-## Social
 
 <div>
   <a href = "mailto:iel_182@hotmail.com">

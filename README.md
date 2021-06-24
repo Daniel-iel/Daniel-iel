@@ -45,47 +45,43 @@ Here are some ideas to get you started:
 <div>
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/csharp-original.svg" alt="C#" height="32px" /> 
+  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/blazor-original.svg" alt="" height="35px" /> 
+  <img align="left" src="./img/blazor-original.svg" alt="" height="42px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/go-flat.svg" alt="" height="25px" /> 
+  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/go/go.svg" alt="" height="42px" /> 
 </a>
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/rust-original.svg" alt="" height="42px" /> 
+  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/xamarin/xamarin.svg" alt="" height="42px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/xamarin-original.svg" alt="" height="27px" /> 
+  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/docker/docker.svg" alt="" height="42px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/docker-original.svg" alt="" height="42px" /> 
+  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/kubernetes/kubernetes.svg" alt="" height="42px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/kubernetes-original.svg" alt="" height="42px" /> 
+  <img align="left" src="./img/visualstudio-original.svg" alt="" height="42px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/visualstudio-original.svg" alt="" height="32px" /> 
+  <img align="left" src="./img/mongodb-original.svg" alt="" height="42px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/mongodb-original.svg" alt="" height="42px" /> 
-</a> 
-
-<a href="#" target="_blank"> 
-  <img align="center" src="./img/azure-original.svg" alt="" height="27px" /> 
+  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/azure/azure.svg" alt="" height="42px" /> 
 </a>
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/azuredevops-original.svg" alt="" height="32px" /> 
+  <img align="left" src="./img/azuredevops-original.svg" alt="" height="42px" /> 
 </a>
 </div>
 <br>

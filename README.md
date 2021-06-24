@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Daniel Oliveira nice to meet you!
+# About me
+### Current working as .Net Software engineer.
+### I'm a .Net certified professional.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-iel&theme=nord&repo=github-readme-stats" />
@@ -21,10 +23,9 @@ Here are some ideas to get you started:
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-iel&layout=compact&repo=convoychat&langs_count=8&theme=nord" />
 </a>
 
-# About me
+# Knowledges
 
 # Contact
-
 <div>
   <a href = "mailto:iel_182@hotmail.com">
     <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank">

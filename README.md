@@ -16,12 +16,19 @@ Here are some ideas to get you started:
 - Current working as .Net Software engineer.
 - I'm a .Net certified professional.
 
+# GitHub Profile Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-iel&theme=nord&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-iel&layout=compact&repo=convoychat&langs_count=8&theme=nord" />
 </a>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Daniel-iel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Daniel-iel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
+
 
 # Contact
 <div>

@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href = "mailto:iel_182@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/daniel-oliveira-00689b9b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">

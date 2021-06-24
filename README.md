@@ -29,101 +29,64 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img align="center" alt="Daniel-iel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Daniel-iel&bg_color=2e3440&color=728da9&line=969ca7&point=FFFFFF&hide_border=false" />
 </a>
-
+<br><br>
 
 # Favorite Tech
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
-  <tr>    
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/blazor-original.svg" width="48" height="48" alt="Blazor" />
-      </a>
-      <br>Blazor
-    </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/rust-original.svg" width="48" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/android-original.svg" width="48" height="48" alt="Android" />
-      </a>
-      <br>Android
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/xamarin-original.svg" width="48" height="48" alt="Xamarin" />
-      </a>
-      <br>Xamarin
-    </td>    
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>    
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/visualstudio-original.svg" width="48" height="48" alt="Visual Studio" />
-      </a>
-      <br>Visual studio
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>Mongodb
-    </td>
-    <td align="center" width="96"> </td>
-    <td align="center" width="96"> </td>
-    <td align="center" width="96"> </td>
-    <td align="center" width="96"> </td>
-    <td align="center" width="96"> </td>
-  </tr>
-</table>
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/csharp-original.svg" alt="C#" height="42px"/> 
+</a> 
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/blazor-original.svg" alt="" height="42px"/> 
+</a> 
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/go-flat.svg" alt="" height="42px"/> 
+</a>
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/rust-original.svg" alt="" height="42px"/> 
+</a> 
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/android-original.svg" alt="" height="42px"/> 
+</a> 
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/xamarin-original.svg" alt="" height="42px"/> 
+</a> 
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/docker-original.svg" alt="" height="42px"/> 
+</a> 
+
+<a href="#" target="_blank"> 
+  <img align="left" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" alt="" height="42px"/> 
+</a> 
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/visualstudio-original.svg" alt="" height="42px"/> 
+</a> 
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/mongodb-original.svg" alt="" height="42px"/> 
+</a> 
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/azure-original.svg" alt="" height="42px"/> 
+</a>
+
+<a href="#" target="_blank"> 
+  <img align="left" src="./img/azuredevops-original.svg" alt="" height="42px"/> 
+</a>
+
+<a href="#" target="_blank"> 
+  <img align="left" src="" alt="" height="42px"/> 
+</a>
+<br><br>
 
 # Contact
 <div>

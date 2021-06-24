@@ -41,49 +41,17 @@ Here are some ideas to get you started:
 # Favorite Tech
 
 > Tools, languages, and other things that I like to work with.
-
-<div>
-
-<a href="#" target="_blank"> 
-  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px" /> 
-</a> 
-
-<a href="#" target="_blank"> 
-  <img align="left" src="./img/blazor-original.svg" alt="" height="42px" /> 
-</a> 
-
-<a href="#" target="_blank"> 
-  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/go/go.svg" alt="" height="42px" /> 
-</a>
-
-<a href="#" target="_blank"> 
-  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/xamarin/xamarin.svg" alt="" height="42px" /> 
-</a> 
-
-<a href="#" target="_blank"> 
-  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/docker/docker.svg" alt="" height="42px" /> 
-</a> 
-
-<a href="#" target="_blank"> 
-  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/kubernetes/kubernetes.svg" alt="" height="42px" /> 
-</a> 
-
-<a href="#" target="_blank"> 
-  <img align="left" src="./img/visualstudio-original.svg" alt="" height="42px" /> 
-</a> 
-
-<a href="#" target="_blank"> 
-  <img align="left" src="./img/mongodb-original.svg" alt="" height="42px" /> 
-</a> 
-
-<a href="#" target="_blank"> 
-  <img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/azure/azure.svg" alt="" height="42px" /> 
-</a>
-
-<a href="#" target="_blank"> 
-  <img align="left" src="./img/azuredevops-original.svg" alt="" height="42px" /> 
-</a>
-</div>
+> <br><br>
+<a href="#" target="_blank"><img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/c%23/c%23.svg" alt="C#" height="42px" /></a> 
+<a href="#" target="_blank"><img align="left" src="./img/blazor-original.svg" alt="" height="42px" /></a>
+<a href="#" target="_blank"><img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/go/go.svg" alt="" height="42px" /></a>
+<a href="#" target="_blank"><img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/xamarin/xamarin.svg" alt="" height="42px" /> </a>
+<a href="#" target="_blank"><img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/docker/docker.svg" alt="" height="42px" /></a>
+<a href="#" target="_blank"><img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/kubernetes/kubernetes.svg" alt="" height="42px" /></a>
+<a href="#" target="_blank"><img align="left" src="./img/visualstudio-original.svg" alt="" height="42px" /></a> 
+<a href="#" target="_blank"><img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.svg" alt="" height="42px" /></a> 
+<a href="#" target="_blank"><img align="left" src="https://github.com/Daniel-iel/README_icons/blob/main/language_and_tools/square/azure/azure.svg" alt="" height="42px" /></a>
+<a href="#" target="_blank"><img align="left" src="./img/azuredevops-original.svg" alt="" height="42px" /></a>
 <br>
 
 # Contact

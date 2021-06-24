@@ -36,50 +36,41 @@ Here are some ideas to get you started:
 > Tools, languages, and other things that I like to work with.
 
 <table>
-  <tr>
-    
+  <tr>    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;(Core)
-    </td>
-    
-    <td align="center" width="96"> </td>
-    
+    </td>    
+    <td align="center" width="96"> </td>    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
-    </td>
-    
-    <td align="center" width="96"> </td>
-    
+    </td>    
+    <td align="center" width="96"> </td>    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>
-    
+    </td>    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
-    
+    </td>    
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
-    </td>
-    
+    </td>    
     <td align="center" width="96"> </td>
-    <td align="center" width="96"> </td>
-    
+    <td align="center" width="96"> </td>    
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -87,15 +78,13 @@ Here are some ideas to get you started:
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
-    
+    </td>    
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
-    </td>
-    
+    </td>    
     <td align="center" width="96"> </td>
     <td align="center" width="96"> </td>
     <td align="center" width="96"> </td>

@@ -43,7 +43,12 @@ Here are some ideas to get you started:
       </a>
       <br>C#&nbsp;(Core)
     </td>    
-    <td align="center" width="96"> </td>    
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/blazore-original.svg" width="48" height="48" alt="Blazor" />
+      </a>
+      <br>Blazor
+    </td>    
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />

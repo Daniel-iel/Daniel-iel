@@ -99,11 +99,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/Daniel-iel">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Daniel-iel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   
-  <a href="https://github.com/Daniel-iel/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
+  <a href="#">
+    <img alt="views" title="Views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=https://github.com/Daniel-iel&color=7c007c&lcolor=650465&logo=github&style=for-the-badge"/>
   </a>
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Daniel-iel)
 </p>
   
 </div>

@@ -23,8 +23,6 @@ Here are some ideas to get you started:
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-iel&layout=compact&repo=convoychat&langs_count=8&theme=nord" />
 </a>
 
-# Knowledges
-
 # Contact
 <div>
   <a href = "mailto:iel_182@hotmail.com">

@@ -83,9 +83,6 @@ Here are some ideas to get you started:
   <img align="left" src="./img/azuredevops-original.svg" alt="" height="42px" width="42px"/> 
 </a>
 
-<a href="#" target="_blank"> 
-  <img align="left" src="" alt="" height="42px" width="42px"/> 
-</a>
 <br><br>
 
 # Contact

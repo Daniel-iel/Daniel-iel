@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About me
-### Current working as .Net Software engineer.
-### I'm a .Net certified professional.
+- Current working as .Net Software engineer.
+- I'm a .Net certified professional.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-iel&theme=nord&repo=github-readme-stats" />

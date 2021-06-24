@@ -12,6 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/daniel-oliveira-00689b9b/" title="LinkedIn Profile"><img width="22" src="./img/linkedin.svg">LinkedIn</a></code>  
+  <code><a href="https://stackexchange.com/users/5862653/user6774029" title="Stack Overflow Profile"><img width="22" src="./img/stackoverflow.svg">Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/danielstrosa/" title="Instagram Profile"><img width="22" src="./img/instagram.svg"> Instagram</a></code>
+</h5>
+
 # About me
 - Current working as .Net Software engineer.
 - I'm a .Net certified professional.

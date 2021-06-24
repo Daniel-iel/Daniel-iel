@@ -36,51 +36,51 @@ Here are some ideas to get you started:
 > Tools, languages, and other things that I like to work with.
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/csharp-original.svg" alt="C#" height="32px" /> 
+  <img align="center" src="./img/csharp-original.svg" alt="C#" height="32px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/blazor-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/blazor-original.svg" alt="" height="32px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/go-flat.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/go-flat.svg" alt="" height="32px" /> 
 </a>
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/rust-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/rust-original.svg" alt="" height="32px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/android-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/android-original.svg" alt="" height="32px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/xamarin-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/xamarin-original.svg" alt="" height="32px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/docker-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/docker-original.svg" alt="" height="32px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/kubernetes-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/kubernetes-original" alt="" height="32px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/visualstudio-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/visualstudio-original.svg" alt="" height="32px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/mongodb-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/mongodb-original.svg" alt="" height="32px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/azure-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/azure-original.svg" alt="" height="32px" /> 
 </a>
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/azuredevops-original.svg" alt="" height="32px" /> 
+  <img align="center" src="./img/azuredevops-original.svg" alt="" height="32px" /> 
 </a>
 
 <br><br>

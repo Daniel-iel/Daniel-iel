@@ -102,6 +102,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/Daniel-iel/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
   </a>
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=github.com/Daniel-iel)
 </p>
   
 </div>

@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="center" src="./img/kubernetes-original" alt="" height="32px" /> 
+  <img align="center" src="./img/kubernetes-original.svg" alt="" height="42px" /> 
 </a> 
 
 <a href="#" target="_blank"> 

@@ -31,7 +31,5 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/daniel-oliveira-00689b9b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://github.com/Daniel-iel/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
-  </a>
+
 </div>

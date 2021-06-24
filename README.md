@@ -40,51 +40,51 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/blazor-original.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/blazor-original.svg" alt="" height="42px" width="42px" /> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/go-flat.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/go-flat.svg" alt="" height="42px" width="42px"/> 
 </a>
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/rust-original.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/rust-original.svg" alt="" height="42px" width="42px"/> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/android-original.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/android-original.svg" alt="" height="42px" width="42px"/> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/xamarin-original.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/xamarin-original.svg" alt="" height="42px" width="42px"/> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/docker-original.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/docker-original.svg" alt="" height="42px" width="42px"/> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" alt="" height="42px"/> 
+  <img align="left" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" alt="" height="42px" width="42px"/> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/visualstudio-original.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/visualstudio-original.svg" alt="" height="42px" width="42px"/> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/mongodb-original.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/mongodb-original.svg" alt="" height="42px" width="42px"/> 
 </a> 
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/azure-original.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/azure-original.svg" alt="" height="42px" width="42px"/> 
 </a>
 
 <a href="#" target="_blank"> 
-  <img align="left" src="./img/azuredevops-original.svg" alt="" height="42px"/> 
+  <img align="left" src="./img/azuredevops-original.svg" alt="" height="42px" width="42px"/> 
 </a>
 
 <a href="#" target="_blank"> 
-  <img align="left" src="" alt="" height="42px"/> 
+  <img align="left" src="" alt="" height="42px" width="42px"/> 
 </a>
 <br><br>
 

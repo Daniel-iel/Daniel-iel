@@ -110,5 +110,5 @@ Here are some ideas to get you started:
 
 # Support
 
-
+  <a href="https://github.com/sponsors/Daniel-iel"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
 

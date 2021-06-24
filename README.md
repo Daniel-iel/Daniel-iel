@@ -31,5 +31,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/daniel-oliveira-00689b9b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-
+  <a href="https://github.com/Daniel-iel">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Daniel-iel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </div>

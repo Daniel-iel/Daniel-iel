@@ -98,4 +98,15 @@ Here are some ideas to get you started:
 
   <a href="https://github.com/Daniel-iel">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Daniel-iel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  
+  <a href="https://github.com/Daniel-iel/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
+  </a>
+</p>
+  
 </div>
+
+# Support
+
+
+

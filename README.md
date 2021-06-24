@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     </td>    
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/blazore-original.svg" width="48" height="48" alt="Blazor" />
+        <img src="./img/blazor-original.svg" width="48" height="48" alt="Blazor" />
       </a>
       <br>Blazor
     </td>    

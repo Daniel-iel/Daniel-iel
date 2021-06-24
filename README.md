@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-iel&layout=compact&repo=convoychat&langs_count=8&theme=nord" />
 </a>
-<br/>
+<br>
+<br>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img align="center" alt="Daniel-iel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Daniel-iel&bg_color=2e3440&color=728da9&line=969ca7&point=FFFFFF&hide_border=false" />
@@ -40,4 +41,11 @@ Here are some ideas to get you started:
   </a>
   <a href="https://github.com/Daniel-iel">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Daniel-iel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+</div>
+<div>
+  <p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
+  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+</p>
 </div>

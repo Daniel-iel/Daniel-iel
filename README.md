@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/Daniel-iel/github-readme-activity-graph">
   <img align="center" alt="Daniel-iel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Daniel-iel&bg_color=2e3440&color=728da9&line=969ca7&point=FFFFFF&hide_border=false" />
 </a>
 <br><br>

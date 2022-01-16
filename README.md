@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💡 I'm a .net certified professional, and yes .net is my passion and hobby.
 - 💻 Currently working as software engineer in a big bank in Brazil.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniel-oliveira-00689b9b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danieliel/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/danielstrosa/)
 
 # GitHub Profile Stats

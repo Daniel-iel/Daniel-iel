@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 # About me
-- 👋 Hi there, I'm Daniel, but you can call me iel.
-- 💡 I'm a .net certified professional, and yes .net is my passion and hobby.
-- 💻 Currently working as software engineer in a big bank in Brazil.
+
+👋 Greetings! I'm Daniel, and feel free to call me iel.
+💡 As a certified .NET professional, my enthusiasm for .NET extends beyond a mere career – it's a genuine passion and hobby of mine.
+💻 Presently, I serve as a dedicated software engineer within the dynamic landscape of a prominent bank in South America. My role involves leveraging my .NET expertise to contribute to innovative 
+solutions and ensure the seamless operation of critical systems. This unique blend of professional commitment and personal passion fuels my drive to excel in the ever-evolving realm of software engineering.
 
 # GitHub Profile Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">

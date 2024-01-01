@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # About me
 
-👋 Greetings! I'm Daniel, and feel free to call me iel.
-💡 As a certified .NET professional, my enthusiasm for .NET extends beyond a mere career – it's a genuine passion and hobby of mine.
-💻 Presently, I serve as a dedicated software engineer within the dynamic landscape of a prominent bank in South America. My role involves leveraging my .NET expertise to contribute to innovative 
+- 👋 Greetings! I'm Daniel, and feel free to call me iel.
+- 💡 As a certified .NET professional, my enthusiasm for .NET extends beyond a mere career – it's a genuine passion and hobby of mine.
+- 💻 Presently, I serve as a dedicated software engineer within the dynamic landscape of a prominent bank in South America. My role involves leveraging my .NET expertise to contribute to innovative 
 solutions and ensure the seamless operation of critical systems. This unique blend of professional commitment and personal passion fuels my drive to excel in the ever-evolving realm of software engineering.
 
 # GitHub Profile Stats

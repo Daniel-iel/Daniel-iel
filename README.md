@@ -1,17 +1,3 @@
-<!--
-**Daniel-iel/Daniel-iel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # About me
 
@@ -29,11 +15,6 @@ solutions and ensure the seamless operation of critical systems. This unique ble
 </a>
 <br>
 <br>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/Daniel-iel/github-readme-activity-graph">
-  <img align="center" alt="Daniel-iel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Daniel-iel&bg_color=2e3440&color=728da9&line=969ca7&point=FFFFFF&hide_border=false" />
-</a>
-<br><br>
 
 # Favorite Tech
 

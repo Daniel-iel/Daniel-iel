@@ -69,7 +69,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Daniel-iel/Daniel-iel/output/snake.svg" alt="Snake animation" />
-
-###
